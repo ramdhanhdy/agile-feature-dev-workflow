@@ -1,8 +1,6 @@
 # Agile Feature Development Workflow
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/ramdhanhdy/agile-feature-dev=workflow)](https://github.com/ramdhanhdy/agile-feature-dev-workflow/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/ramdhanhdy/agile-feature-dev=workflow)](https://github.com/ramdhanhdy/agile-feature-dev-workflow/issues)
 
 A reusable template for structured feature development, adopting agile methodologies for user-centric planning, Atomic Design for modular UI components, and git best practices for incremental commits. This template guides you through requirements, design, tasks, and version control—empowering efficient workflows for software projects while remaining adaptable to diverse tasks like product planning or content creation.
 
